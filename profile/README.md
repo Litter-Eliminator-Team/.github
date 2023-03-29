@@ -1,9 +1,9 @@
 # Litter Eliminator Team!
 
-Current Repositories: \
+Current Repositories:
 
-PCB Repo \
+PCB Repo
 
-ROS Framework Repo \
+ROS Framework Repo
 
-Machine Learning Repo \
+Machine Learning Repo
