@@ -10,7 +10,10 @@ COLLECTIVE MEETING OR BRAINSTORMING HOUR BREAKDOWN:\
 Group meeting(1): introductions, discussed general goals and scope -> 1 HR\
 Group meeting(2): discussed ROS architecture, and trash retrival mechanism brainstorming -> 1 HR\
 Group meeting(3): discussed overall arhitecture and research findings(off the shelf robtics kit including motor controler vs creating custom PCB)  -> 1 HR\
-Group meeting(4): discussing 
+Group meeting(4): discussed trash retrival mechanism again(finalized to use in prototype)  -> 1 HR\
+Group meeting(5): chasis was brought in, discussed how other components will fit with it -> 1 HR\ 
+Group meeting(6): suitible microcontroller with motorcontrollers found(finilized to use in prototype -> 1 HR\ 
+TOTAL COLLECTIVE HOURS: 6
 
 
 JAMES FESIK HOUR BREAKDOWN:\
