@@ -6,6 +6,13 @@ ROS Framework Repo\
 Machine Learning Repo\
 Mechanical Build Repo\
 
+COLLECTIVE MEETING OR BRAINSTORMING HOUR BREAKDOWN:\
+Group meeting(1): introductions, discussed general goals and scope -> 1 HR\
+Group meeting(2): discussed ROS architecture, and trash retrival mechanism brainstorming -> 1 HR\
+Group meeting(3): discussed overall arhitecture and research findings(off the shelf robtics kit including motor controler vs creating custom PCB)  -> 1 HR\
+Group meeting(4): discussing 
+
+
 JAMES FESIK HOUR BREAKDOWN:\
 Brainstorming ideas for ROS2 framework, mechanical build, and microcontroller -> 5 HR\
 Researching cameras and what camera would be compatible with ROS2 -> 2 HR\
@@ -26,3 +33,5 @@ Helping with the Machine Learning model to interface with the ROS2 framework alr
 Trying to integrate detecto, custom haar cascades, and yolov5 machine learning models in ROS framework -> 4 HR\
 Helping with the mechanical build team of Michelle and Natalie to debug problems that were occuring. -> 3 HR\
 TOTAL HOURS: 47
+
+
