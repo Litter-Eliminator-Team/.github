@@ -45,7 +45,7 @@ Research detector documentation -> 1 hour
 Complete Basic excercises using detector -> 4 hours  
 Research Hypergator functionality -> 2 hours  
   
-Thursday April 6th: Discussed with Natlie and Michele suitible items for trash retrival, then found and collected sample trash items from home -> 1 hour
+Thursday April 6th: Discussed with Natlie and Michele suitible items for trash retrival, then found and collected sample trash items from home -> 1 hour  
 Monday April 10th: Created training data for ML model on three sample objects(took pictures).  
 Roughly 300 images per object = 900 total images ~ 2 hours  
   
