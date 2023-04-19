@@ -7,6 +7,7 @@ Machine Learning Repo\
 Mechanical Build Repo\
 
 JAMES FESIK HOUR BREAKDOWN:\
+Brainstorming ideas for ROS2 framework, mechanical build, and microcontroller -> 5 HR\
 Researching cameras and what camera would be compatible with ROS2 -> 2 HR\
 Created the ros2_ws directory in the repo -> 1 HR\
 Built and installed the YDLidar SDK repo -> 1 HR\
@@ -24,4 +25,4 @@ Debugging code and brainstorming power saving issues that we were having with th
 Helping with the Machine Learning model to interface with the ROS2 framework already implemented. -> 3 HR\
 Trying to integrate detecto, custom haar cascades, and yolov5 machine learning models in ROS framework -> 4 HR\
 Helping with the mechanical build team of Michelle and Natalie to debug problems that were occuring. -> 3 HR\
-TOTAL HOURS: 42\
+TOTAL HOURS: 47
