@@ -8,6 +8,8 @@ Mechanical Build Repo
 
 JAMES FESIK HOUR BREAKDOWN:
 Researching cameras and what camera would be compatible with ROS2 -> 2 HR
+
+
 Created the ros2_ws directory in the repo -> 1 HR
 Built and installed the YDLidar SDK repo -> 1 HR
 Built and installed the YDLidar ROS2 Driver and interfaced it with the ros2_ws directory. -> 2 HR
