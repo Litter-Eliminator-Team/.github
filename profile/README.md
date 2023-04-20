@@ -91,6 +91,7 @@ was struggling to perform infrence(draw bounding box) using the created model. F
 GRAND TOTAL: 43 + 6 = 49 HOURS
 
 JORGE OTERO HOUR BREAKDOWN:
+
 4/04 - Discussed how many motors we would be using in total to decide what motor controller would work best from the ones I researched. -> 3 hours
 
 4/05 - Did further research on the Cytron Maker Pi RP2040 and then decided with the group that the Maker Pi would best fit our needs. -> 3 hours
