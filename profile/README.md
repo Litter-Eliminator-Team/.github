@@ -90,4 +90,27 @@ was struggling to perform infrence(draw bounding box) using the created model. F
 
 GRAND TOTAL: 43 + 6 = 49 HOURS
 
+JORGE OTERO HOUR BREAKDOWN:
+4/04 - Discussed how many motors we would be using in total to decide what motor controller would work best from the ones I researched. -> 3 hours
+
+4/05 - Did further research on the Cytron Maker Pi RP2040 and then decided with the group that the Maker Pi would best fit our needs. -> 3 hours
+
+4/07 - Researched ways to program the Maker Pi, which included  C, C++, CircuitPython and MicroPython-> 4 hours
+
+04/09 - Decided that CircuitPython would be the best to program the Maker Pi and downloaded the most recent stable release of the uf2 file for it from the CircuitPython website. I also began reading through how to write CircuitPython code -> 5 hours
+
+4/10 - Downloaded the recommended Python code editor called Mu to write CircuitPython code. I also received the Maker Pi from the mail, which had a link to a github repository that I started to read through (Link: https://github.com/CytronTechnologies/MAKER-PI-RP2040). ->3 hours
+
+4/11 - Discussed the exact connections that would be made between the Maker Pi and the motors, which include 2 DC motors and 4 servo motors, as well as how the Raspberry Pi would connect to the Maker Pi. -> 4 hours
+
+4/12 - Confirmed that the Maker Pi is able to connect to the DC motors, as well as power two of them at the same time. I also confirmed that the Maker Pi can worked with the servo motors that we will be using, which included writing basic code that was based on the code found in the github repository. - 3 hours
+
+4/13 - Had to abandon using CircuitPython due to micro-ROS not being compatible with Circuitpython. I researched if there was any way to still use CircuitPython, but could not find anything. Started to research how to program the Maker Pi with C/C++. -> 4 hours
+
+4/14 - Found out that the Maker Pi can be programmed the same way as the Raspberry Pi Pico, which was discussed in the drivers for embedded systems lab. Experimented with the blink.c file that was provided in the pico_examples directory when doing the lab to see how to power the DC motors in C/C++. Found a youtube video that provided example code for powering servo motors on the raspberry pi pico, which I adapted for the Maker Pi (Link: https://youtu.be/fCIFYKFNcGc). -> 5 hours
+
+4/16 - Wrote a hard coded script that emulates the autonomous behavior of the Litter Eliminator when picking up trash with the press of a button that was labeled as GP20 on the Maker Pi. Fine tuned the angles and acceleration of the servo motors to best suit picking up trash, which involved testing with Natalie. -> 6 hours
+
+GRAND TOTAL: 40 hours + 6 hours = 46 hours
+
 
