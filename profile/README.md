@@ -12,15 +12,17 @@ The Litter Eliminator Pro (LEP) is a robot that autonomously navigates its envir
   
 # Starting Code
 
-To start the robot, the laptop first needs to be on and connected to a network. An SSH connection will be used to start the robot wirelessly. Before this make sure all connections are in place. Lift the top of the orange case and plug in a micro USB to the Teensy. Then connect the Teensy and camera USB to the laptop on the robot. If autonomous navigation is wanted, plug the Lidar into the laptop as well. Finally, connect the servo motors to the 3-pin female headers with matching ground on the PCB. Then connect the 6-pin DC motor connections to the correct place on the PCB with ground pins lined up. If connections are flipped simply switch the wrong connections with grounds still in the right positions.
+To start the robot, the laptop first needs to be on and connected to a network. An SSH connection will be used to start the robot wirelessly. Make sure that your SSH device is connected to the same network as tbe laptop on the robot or it will not connect. Before this make sure all connections are in place. Lift the top of the orange case and plug in a micro USB to the Teensy. Then connect the Teensy and camera USB to the laptop on the robot. If autonomous navigation is wanted, plug the Lidar into the laptop as well. Finally, connect the servo motors to the 3-pin female headers with matching ground on the PCB. Then connect the 6-pin DC motor connections to the correct place on the PCB with ground pins lined up. If connections are flipped simply switch the wrong connections with grounds still in the right positions.
 
 Once the laptop is on and another computer is also connected to the same network use this SSH command:
 
-HERE
+ssh literbotpro@"ip_address"
 
-Then to start the robot run this command:
+Then to start the robot navigate to the /STARTING_ROBOT directory and run these commands:
 
-HERE
+./ros_workspace_start.sh
+./micro_ros_workspace.sh
+NOTE: Be sure to run the micro ros .sh file after you plugged in the Teensy and then once the .sh file is running unplug and plug in the Teensy to the laptop to reset the micro_ros connection start a new agent session.
 
 The expected result is the robot continually turning and searching for trash to pick up. 
 
