@@ -16,15 +16,15 @@ To start the robot, the laptop first needs to be on and connected to a network. 
 
 Once the laptop is on and another computer is also connected to the same network use this SSH command:
 
-ssh literbotpro@"ip_address"
+ssh literbotpro@"ip_address" \
 
-Then to start the robot navigate to the /STARTING_ROBOT directory and run these commands:
+Then to start the robot navigate to the /STARTING_ROBOT directory and run these commands: \
 
-./ros_workspace_start.sh
-./micro_ros_workspace.sh
-NOTE: Be sure to run the micro ros .sh file after you plugged in the Teensy and then once the .sh file is running unplug and plug in the Teensy to the laptop to reset the micro_ros connection start a new agent session.
+./ros_workspace_start.sh \
+./micro_ros_workspace.sh \
+NOTE: Be sure to run the micro ros .sh file after you plugged in the Teensy and then once the .sh file is running unplug and plug in the Teensy to the laptop to reset the micro_ros connection start a new agent session. \
 
-The expected result is the robot continually turning and searching for trash to pick up. 
+The expected result is the robot continually turning and searching for trash to pick up. \
 
 
 
